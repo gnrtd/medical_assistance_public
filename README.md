@@ -4,7 +4,7 @@
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
 ###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
-Automates 📝 daily generation of Word report templates.  
+Automates 📝 daily generation of Word report templates using 5 different schedules a week  
 🗂️ Includes dynamic folder creation, templating, and 📧 email draft scheduling via PowerShell and Google Apps Script.
 
 ---
