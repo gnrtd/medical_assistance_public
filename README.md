@@ -1,9 +1,9 @@
+## **Automated Analytics Pipeline for Medical test**
+
 ## 📁 Project Structure
 
 <details>
 <summary><strong>Click to expand pipeline phases</strong></summary>
-
-### **Automated Analytics Pipeline** for Medical test
 
 ###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
 - Automates daily generation of Word report templates using 6 different schedules a month.  
