@@ -7,7 +7,7 @@ This branch contains the automation layer of the **[**Automated Analytics Pipeli
 
 ## 🧭 Purpose
 
-Automate the manual process of preparing daily report templates and associated communication artifacts (email drafts) used in outpatient medical testing procedures.
+Automate the manual process of preparing daily report templates and associated communication artifacts (email drafts) used in outpatient medical testing procedures a week in advance.
 
 ---
 
