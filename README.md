@@ -19,6 +19,10 @@
 - Visualizes trends using Tableau 📈.  
 - Analyzes office workloads and gives other essential insights.
 
+---
+
+🔐 Disclaimer All names, schedules, and content are synthetic. This branch is designed strictly for portfolio demonstration and technical evaluation purposes.
+
 </details>
 
 
