@@ -1,7 +1,7 @@
 # medical_assistance_public
 # Branch: `1_doc-automation` — Daily Medical Report Automation
 
-This branch contains the automation layer of the **[**Automated Analytics Pipeline**](https://github.com/gnrtd/medical_assistance_public)** project. It simulates real-world documentation flow in medical testing by generating daily Word report templates for multiple offices, doctors, and shifting schedules.
+This branch contains the automation layer of the **[**Automated Analytics Pipeline for Medical test**](https://github.com/gnrtd/medical_assistance_public)** project. It simulates real-world documentation flow in medical testing by generating daily Word report templates for multiple offices, doctors, and shifting schedules.
 
 ---
 
