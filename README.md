@@ -1,4 +1,4 @@
-## **Automated Analytics Pipeline for Medical test**
+# **Automated Analytics Pipeline for Medical test**
 
 ## 📁 Project Structure
 
