@@ -13,7 +13,7 @@ Automate the manual process of preparing daily report templates and associated c
 - `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates
 - `visuals/` – infographics
-- `doc/` - docs
+- `docs/` - docs
 
 ---
 
