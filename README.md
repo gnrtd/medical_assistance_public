@@ -1,17 +1,17 @@
-# medical_assistance_public
+### medical_assistance_public
 # Branch: `1_doc-automation` — Daily Medical Report Automation
 
-This branch contains the automation layer of the **[**Automated Analytics Pipeline for Medical test**](https://github.com/gnrtd/medical_assistance_public)** project. It simulates real-world documentation flow in medical testing by generating daily Word report templates for multiple offices, doctors, and shifting schedules.
+##This branch contains the automation layer of the **[**Automated Analytics Pipeline for Medical test**](https://github.com/gnrtd/medical_assistance_public)** project. It simulates real-world documentation flow in medical testing by generating daily Word report templates for multiple offices, doctors, and shifting schedules.
 
 ---
 
-## 🧭 Purpose
+### 🧭 Purpose
 
 Automate the manual process of preparing daily report templates and associated communication artifacts (email drafts) used in outpatient medical testing procedures a week in advance.
 
 ---
 
-## ⚙️ Features
+### ⚙️ Features
 
 - Auto-creates dated folder structure for upcoming week (configurable).
 - Generates `.docx` report templates with:
@@ -27,7 +27,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **PowerShell**: File/folder automation, date logic, document template population
 - **Google Apps Script**: Gmail draft creation based on daily templates
