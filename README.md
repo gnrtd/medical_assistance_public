@@ -6,9 +6,9 @@
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
 ## Repository Structure
-- `scripts/` – generation scripts
+- `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates
-- `visuals/` – screenshots and infographics
+- `visuals/` – infographics
   
 
 ###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
@@ -31,9 +31,9 @@
 
 ### 📄 Detailed Documentation
 
-- [Automation: Word & Email Templates](docs/README_doc-automation.md)
-- [ETL: Archive to CSV](docs/README_archive-to-csv.md)
-- [Analytics & Dashboards](docs/README_analytics-insights.md)
+- `1_doc-automation` [Automation: Word & Email Templates](docs/README_doc-automation.md)
+- `2_archive-to-csv` [ETL: Archive to CSV](docs/README_archive-to-csv.md)
+- `3_analytics-insights` [Analytics & Dashboards](docs/README_analytics-insights.md)
 
 ---
 
