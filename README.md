@@ -9,7 +9,7 @@
 
 [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
 [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
-[`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
+[`3_analytics-insights`](https://github.com/gnrtd/medical_assistance_public/tree/3_analytics-insights)
 
 ### 📁 Repository Structure
 
