@@ -9,6 +9,7 @@
 - `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates
 - `visuals/` – infographics
+- `docs/` – documentation
   
 ### 📄 Detailed Documentation
 
