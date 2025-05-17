@@ -5,6 +5,12 @@
 <details>
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
+## Repository Structure
+- `scripts/` – generation scripts
+- `templates/` – document templates
+- `visuals/` – screenshots and infographics
+  
+
 ###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
 - Automates daily generation of Word report templates using 6 different schedules a month.  
 - Includes dynamic folder creation, templating, and 📧 email draft scheduling via PowerShell and Google Apps Script.
@@ -20,6 +26,14 @@
 ###  [`3_analytics-insights`](https://github.com/gnrtd/medical_assistance_public/tree/3_analytics-insights)
 - Visualizes trends using Tableau 📈.  
 - Analyzes office workloads and gives other essential insights.
+
+---
+
+### 📄 Detailed Documentation
+
+- [Automation: Word & Email Templates](docs/README_doc-automation.md)
+- [ETL: Archive to CSV](docs/README_archive-to-csv.md)
+- [Analytics & Dashboards](docs/README_analytics-insights.md)
 
 ---
 
