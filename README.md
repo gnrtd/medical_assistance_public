@@ -13,7 +13,7 @@
   
 ### 📄 Detailed Documentation
 
-- `1_doc-automation` [Automation: Word & Email Templates](docs/README_1_doc-automation.md))
+- `1_doc-automation` [Automation: Word & Email Templates](docs/README_1_doc-automation.md)
 - `2_archive-to-csv` [ETL: Archive to CSV](docs/README_2_archive-to-csv.md)
 - `3_analytics-insights` [Analytics & Dashboards](docs/README_3_analytics-insights.md)
 
