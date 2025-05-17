@@ -5,11 +5,11 @@
 <details>
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
-## **3-steps-process-pipeline**
+### **3-steps-process-pipeline**
 
-###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
-###  [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
-###  [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
+[`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
+[`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
+[`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
 
 ### 📁 Repository Structure
 
