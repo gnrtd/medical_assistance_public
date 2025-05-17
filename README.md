@@ -10,6 +10,13 @@
 - `templates/` – document templates
 - `visuals/` – infographics
   
+## 📄 Detailed Documentation
+
+- `1_doc-automation` [Automation: Word & Email Templates](docs/README_doc-automation.md)
+- `2_archive-to-csv` [ETL: Archive to CSV](docs/README_archive-to-csv.md)
+- `3_analytics-insights` [Analytics & Dashboards](docs/README_analytics-insights.md)
+
+---
 
 ###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
 - Automates daily generation of Word report templates using 6 different schedules a month.  
@@ -26,14 +33,6 @@
 ###  [`3_analytics-insights`](https://github.com/gnrtd/medical_assistance_public/tree/3_analytics-insights)
 - Visualizes trends using Tableau 📈.  
 - Analyzes office workloads and gives other essential insights.
-
----
-
-### 📄 Detailed Documentation
-
-- `1_doc-automation` [Automation: Word & Email Templates](docs/README_doc-automation.md)
-- `2_archive-to-csv` [ETL: Archive to CSV](docs/README_archive-to-csv.md)
-- `3_analytics-insights` [Analytics & Dashboards](docs/README_analytics-insights.md)
 
 ---
 
