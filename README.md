@@ -8,7 +8,7 @@
 ### 📁 Repository Structure
 
 - `visuals/` – infographics
-- `doc/` - docs
+- `docs/` - docs
   
 ### 📄 Detailed Documentation
 
