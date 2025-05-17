@@ -9,11 +9,11 @@ This branch contains the automation layer of the **[**Automated Analytics Pipeli
 
 Automate the manual process of preparing daily report templates and associated communication artifacts (email drafts) used in outpatient medical testing procedures a week in advance.
 
-### 📁 Repository Structure
+### 📁 Branch Repository Structure
 - `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates
 - `visuals/` – infographics
-- `docs/` – documentation
+- `doc/` - docs
 
 ---
 
