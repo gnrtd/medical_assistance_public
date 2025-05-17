@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
-### Repository Structure
+### 📁 Repository Structure
 - `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates
 - `visuals/` – infographics
