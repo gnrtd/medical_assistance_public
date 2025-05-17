@@ -5,12 +5,12 @@
 <details>
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
-## Repository Structure
+### Repository Structure
 - `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates
 - `visuals/` – infographics
   
-## 📄 Detailed Documentation
+### 📄 Detailed Documentation
 
 - `1_doc-automation` [Automation: Word & Email Templates](docs/README_doc-automation.md)
 - `2_archive-to-csv` [ETL: Archive to CSV](docs/README_archive-to-csv.md)
