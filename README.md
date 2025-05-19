@@ -10,40 +10,23 @@
 
 ---
 
-### **3-step-process-pipeline**
+### **Process-pipeline**
 
- [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
- [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
- [`3_analytics-insights`](https://github.com/gnrtd/medical_assistance_public/tree/3_analytics-insights)
+ `1_create-daily-report-base` via Power Shell
+ `2_run-it-by-6-schedules` via Task Scheduler
+ `3_email-drafts-by-6-schedules` via App Script
 
 ### 📁 Repository Structure
 
-- `visuals/` – infographics, interface mockups
-- `docs/` -  project documentation including branch-specific READMEs
-  
-### 📄 Detailed Documentation
-
-- `1_doc-automation` [Automation: Word & Email Templates [Power Shell, Task Scheduler, App Script]](docs/README_1_doc-automation.md)
-- `2_archive-to-csv` [ETL: Archive to csv [SQL, Python]](docs/README_2_archive-to-csv.md)
-- `3_analytics-insights` [Analytics & Dashboards [Tableau]](docs/README_3_analytics-insights.md)
+- `visuals/` – infographics
+- `docs/` -  project documentation
 
 ---
 
-###  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
-- Automates daily generation of Word report templates using 6 different schedules a month.  
-- Includes dynamic folder creation, templating, and 📧 email draft scheduling via PowerShell and Google Apps Script.
-
----
-
-###  [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
-- Parses and cleans archived report files 📂.  
-- Extracts data and normalizes it into CSV for SQL/Excel pipelines.
-
----
-
-###  [`3_analytics-insights`](https://github.com/gnrtd/medical_assistance_public/tree/3_analytics-insights)
-- Visualizes trends using Tableau 📈.  
-- Analyzes office workloads and gives other essential insights.
+###  [`1_create-daily-report-base`](link)
+- Automates daily generation of a report folder with corresponding name and date, using 6 different schedules a month.  
+- Automates daily generation of Word report templates for 5 different locations (address, physician name, date, extra detailes for some offices)
+- Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step process.
 
 ---
 
