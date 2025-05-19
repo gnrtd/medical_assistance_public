@@ -24,7 +24,7 @@
 ### 📄 Detailed Documentation
 
 - `1_doc-automation` [Automation: Word & Email Templates [Power Shell, Task Scheduler, App Script]](docs/README_1_doc-automation.md)
-- `2_archive-to-csv` [ETL: Archive to CSV [SQL, Python]](docs/README_2_archive-to-csv.md)
+- `2_archive-to-csv` [ETL: Archive to csv [SQL, Python]](docs/README_2_archive-to-csv.md)
 - `3_analytics-insights` [Analytics & Dashboards [Tableau]](docs/README_3_analytics-insights.md)
 
 ---
