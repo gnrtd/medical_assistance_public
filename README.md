@@ -25,11 +25,11 @@ Automate the manual process of preparing daily report templates and associated c
  
 ---
 
-### **Process-pipeline**
+### **Components of the project**
 
-- `1_create-daily-report-base` Power Shell
-- `2_run-it-by-6-schedules` Task Scheduler
-- `3_create-email-drafts-by-6-schedules` App Script
+- `1_create-daily-report-base` 
+- `2_run-it-by-6-schedules`
+- `3_create-email-drafts-by-6-schedules` 
 
 ---
 
