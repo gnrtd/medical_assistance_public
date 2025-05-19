@@ -5,6 +5,8 @@
 <details>
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
+##(creation of Public version is in process 🛠️, original version (1st step) was launched on March 2025, tested and works properly)
+
 ### **3-step-process-pipeline**
 
  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
