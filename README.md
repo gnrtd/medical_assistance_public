@@ -6,7 +6,7 @@
 <summary><strong>Click to expand pipeline phases</strong></summary>
 
 ## 🛠️ Creation of Public version is in process 
-Original version (1st step) was launched on March 2025, tested and works properly
+- 🚀 Original version (1st step) was launched on March 2025, tested and works properly
 
 ---
 
