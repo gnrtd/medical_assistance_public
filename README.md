@@ -9,7 +9,7 @@
 
  [`1_doc-automation`](https://github.com/gnrtd/medical_assistance_public/tree/1_doc-automation)
  [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
- [`2_archive-to-csv`](https://github.com/gnrtd/medical_assistance_public/tree/2_archive-to-csv)
+ [`3_analytics-insights`](https://github.com/gnrtd/medical_assistance_public/tree/3_analytics-insights)
 
 ### 📁 Repository Structure
 
@@ -18,9 +18,9 @@
   
 ### 📄 Detailed Documentation
 
-- `1_doc-automation` [Automation: Word & Email Templates](docs/README_1_doc-automation.md)
-- `2_archive-to-csv` [ETL: Archive to CSV](docs/README_2_archive-to-csv.md)
-- `3_analytics-insights` [Analytics & Dashboards](docs/README_3_analytics-insights.md)
+- `1_doc-automation` [Automation: Word & Email Templates. Power Shell, Task Scheduler, App Script](docs/README_1_doc-automation.md)
+- `2_archive-to-csv` [ETL: Archive to CSV. SQL, Python](docs/README_2_archive-to-csv.md)
+- `3_analytics-insights` [Analytics & Dashboards. Tableau](docs/README_3_analytics-insights.md)
 
 ---
 
