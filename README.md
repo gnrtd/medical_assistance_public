@@ -12,9 +12,9 @@
 
 ### **Process-pipeline**
 
-- `1_create-daily-report-base` via Power Shell
-- `2_run-it-by-6-schedules` via Task Scheduler
-- `3_create-email-drafts-by-6-schedules` via App Script
+- `1_create-daily-report-base` Power Shell
+- `2_run-it-by-6-schedules` Task Scheduler
+- `3_create-email-drafts-by-6-schedules` App Script
 
 ### 📁 Repository Structure
 
