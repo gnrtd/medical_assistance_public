@@ -45,7 +45,7 @@ Automate the manual process of preparing daily report templates and associated c
   - Assigned doctor
   - Optional add-ons (per office rules)
 
-###  [`3_create-email-drafts-by-6-schedules`](link](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.png)
+###  [`3_create-email-drafts-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.png)
 - Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step process.
 
 - Supports custom office visit patterns:
