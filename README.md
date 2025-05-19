@@ -21,7 +21,7 @@ Automate the manual process of preparing daily report templates and associated c
 - `scripts/` – generation scripts (screenshots)
 - `templates/` – document templates (screenshots)
 - `visuals/` – infographics
-- `docs/` - project documentation
+- `docs/` - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/docs/Documentation.jpg)
  
 ---
 
