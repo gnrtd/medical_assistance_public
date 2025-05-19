@@ -1,5 +1,7 @@
 # **Medical-field-tech-assist-tools**
 
+- `This project simulates real-world documentation flow in medical testing by generating daily Word report templates for multiple offices, doctors, and shifting schedules.`
+
 ## 📁 Project Structure
 
 <details>
@@ -10,6 +12,19 @@
 
 ---
 
+### 🧭 Purpose
+
+Automate the manual process of preparing daily report templates and associated communication artifacts (email drafts) used in outpatient medical testing procedures a week in advance.
+
+### 📁 Repository Structure
+
+- `scripts/` – generation scripts (screenshots)
+- `templates/` – document templates (screenshots)
+- `visuals/` – infographics
+- `docs/` - project documentation
+ 
+---
+
 ### **Process-pipeline**
 
 - `1_create-daily-report-base` Power Shell
@@ -18,21 +33,34 @@
 
 ---
 
+### ⚙️ Features
+
 ###  [`1_create-daily-report-base`](link)
 - Automates daily generation of a report folder with corresponding name and date, using 6 different schedules a month.
 
 ###  [`2_run-it-by-6-schedules`](link)
-- Automates daily generation of Word report templates for 5 different locations (address, physician name, date, extra detailes for some offices)
+- Automates daily generation `.docx` pre-report templates for 5 different locations with:
+  - Office name
+  - Date of test
+  - Assigned doctor
+  - Optional add-ons (per office rules)
 
 ###  [`3_create-email-drafts-by-6-schedules`](link)
 - Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step process.
 
+- Supports custom office visit patterns:
+  - weekly on a specific weekday
+  - 1st & 3rd weekdays
+  - 2nd & 4th weekdays
+  - Biweekly office schedules
+
 ---
 
-### 📁 Repository Structure
+### 🛠️ Tech Stack
 
-- `visuals/` – infographics
-- `docs/` -  project documentation
+- **PowerShell**: File/folder automation, date logic, document template population
+- **Windows Task Scheduler**: To run script weekly
+- **Google Apps Script**: Gmail draft creation based on daily templates
 
 ---
 
