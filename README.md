@@ -1,4 +1,4 @@
-# **Automated Analytics Pipeline for Medical test**
+# **Medical-field-tech-assist-tools**
 
 ## 📁 Project Structure
 
