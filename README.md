@@ -14,7 +14,7 @@
 
 - `1_create-daily-report-base` via Power Shell
 - `2_run-it-by-6-schedules` via Task Scheduler
-- `3_email-drafts-by-6-schedules` via App Script
+- `3_create-email-drafts-by-6-schedules` via App Script
 
 ### 📁 Repository Structure
 
