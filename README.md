@@ -35,7 +35,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### ⚙️ Features
 
-###  [`1_create-daily-report-base`](link)
+###  [`1_create-daily-report-base`](https://github.com/gnrtd/medical_assistance_public/blob/main/templates/created_WordReport_template.png)
 - Automates daily generation of a report folder with corresponding name and date, using 6 different schedules a month.
 
 ###  [`2_run-it-by-6-schedules`](link)
