@@ -57,7 +57,8 @@ Automate the manual process of preparing daily report templates and associated c
   - 2nd & 4th weekdays
   - Biweekly office schedules
 
-- [Output folder icon]
+- [Output folder icon](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Output_folder.png)
+
 ---
 
 ### 🛠️ Tech Stack
