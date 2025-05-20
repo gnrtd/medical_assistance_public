@@ -46,7 +46,7 @@ Automate the manual process of preparing daily report templates and associated c
   - Optional add-ons (per office rules)
 
 ###  [`2_run-it-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/PowerShell%2BTaskScheduler.png)
-- Automates running of the First step by Task Scheduler, using corresponded triggers.
+- Automates execution of the first step via Task Scheduler using predefined schedule-based triggers.
 
 ###  [`3_create-email-drafts-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.png)
 - Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step operational process.
@@ -57,6 +57,7 @@ Automate the manual process of preparing daily report templates and associated c
   - 2nd & 4th weekdays
   - Biweekly office schedules
 
+- [Output folder icon]
 ---
 
 ### 🛠️ Tech Stack
