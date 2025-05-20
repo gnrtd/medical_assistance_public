@@ -29,7 +29,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### **Components of the project**
 
-- `1_create-daily-report-base` 
+- `1_create-daily-report-base (5 variations)` 
 - `2_run-it-by-6-schedules`
 - `3_create-email-drafts-by-6-schedules` 
 
@@ -38,19 +38,20 @@ Automate the manual process of preparing daily report templates and associated c
 ### ⚙️ Features
 
 ###  [`1_create-daily-report-base`](https://github.com/gnrtd/medical_assistance_public/blob/main/templates/created_WordReport_template.png)
-- Automates daily generation of a report folder with corresponding name and date, using [6 different schedules](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Schedule_Monthly_Sample.jpg) a month. 
-
-###  [`2_run-it-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/PowerShell%2BTaskScheduler.png)
-- Automates daily generation `.docx` pre-report templates for 5 different locations with:
-  - Office name
+- Automates daily generation of a report folder with corresponding name and date, using [6 different schedules](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Schedule_Monthly_Sample.jpg) a month.
+- Automates daily generation `.docx` pre-report templates for 5 different locations with dynamic:
   - Date of test
+  - Office address
   - Assigned doctor
   - Optional add-ons (per office rules)
 
-###  [`3_create-email-drafts-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.png)
-- Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step process.
+###  [`2_run-it-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/PowerShell%2BTaskScheduler.png)
+- Automates running of the First step by Task Scheduler, using corresponded triggers.
 
-- Supports custom office visit patterns:
+###  [`3_create-email-drafts-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.png)
+- Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step operational process.
+
+- Supports [custom](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Schedule_Monthly_Sample.jpg) office visit patterns:
   - weekly on a specific weekday
   - 1st & 3rd weekdays
   - 2nd & 4th weekdays
@@ -61,7 +62,7 @@ Automate the manual process of preparing daily report templates and associated c
 ### 🛠️ Tech Stack
 
 - **PowerShell**: File/folder automation, date logic, document template population
-- **Windows Task Scheduler**: To run script weekly
+- **Windows Task Scheduler**: To run script daily
 - **Google Apps Script**: Gmail draft creation based on daily templates
 
 ---
