@@ -18,10 +18,12 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### 📁 Repository Structure
 
-- `scripts/` – generation scripts (screenshots)
-- `templates/` – document templates (screenshots)
-- `visuals/` – infographics
-- `docs/` - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/docs/Documentation.jpg)
+- [`scripts/`](https://github.com/gnrtd/medical_assistance_public/tree/main/scripts) – generation scripts (screenshots)
+- [`templates/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs
+) – document templates (screenshots)
+- [`visuals/`](https://github.com/gnrtd/medical_assistance_public/tree/main/visuals
+) – infographics
+- [`docs/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs) - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/docs/Documentation.jpg)
  
 ---
 
