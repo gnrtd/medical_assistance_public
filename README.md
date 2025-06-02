@@ -18,7 +18,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### 📁 Repository Structure
 
-- [`scripts/`](https://github.com/gnrtd/medical_assistance_public/tree/main/scripts) – generation scripts (screenshots)
+- [`scripts/`](https://github.com/gnrtd/medical_assistance_public/tree/main/scripts) – generation scripts 
 - [`templates/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs
 ) – document templates (screenshots)
 - [`visuals/`](https://github.com/gnrtd/medical_assistance_public/tree/main/visuals
@@ -57,6 +57,7 @@ Automate the manual process of preparing daily report templates and associated c
   - 2nd & 4th weekdays
   - Biweekly office schedules
 
+- [JSON AppScript](file https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.json)
 - [Output folder icon](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Output_folder.png)
 
 ---
