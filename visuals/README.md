@@ -1,1 +1,1 @@
-Contains diagrams and screenshots for the full project.
+🖼️ Contains diagrams and screenshots for the full project.
