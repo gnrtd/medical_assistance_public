@@ -20,7 +20,7 @@ Automate the manual process of preparing daily report templates and associated c
 ) – document templates (screenshots)
 - [`visuals/`](https://github.com/gnrtd/medical_assistance_public/tree/main/visuals
 ) – infographics
-- [`docs/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs) - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/docs/Documentation.jpg)
+- [`docs/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs) - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/docs/Documentation.jpg)
  
 ---
 
@@ -28,7 +28,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 - `1_create-daily-report-base (5 variations)` 
 - `2_run-it-by-6-schedules`
-- `3_create-email-drafts-by-6-schedules` 
+- `3_create-email-drafts-by-6-schedules` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/AppScript_GmailDraftReport.png)
 
 ---
 
