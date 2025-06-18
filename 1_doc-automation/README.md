@@ -26,7 +26,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### **Components of the project**
 
-- `1_create-daily-report-base (5 variations)` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/templates 
+- `1_create-daily-report-base (5 variations)` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/templates/doc_template_sample.png) 
 - `2_run-it-by-6-schedules` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals/Schedule_Monthly_Sample.png)
 - `3_create-email-drafts-by-6-schedules` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/AppScript_GmailDraftReport.png)
 
