@@ -15,19 +15,19 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### 📁 Repository Structure
 
-- [`scripts/`](https://github.com/gnrtd/medical_assistance_public/tree/main/scripts) – generation scripts 
-- [`templates/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs
+- [`scripts/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts) – generation scripts 
+- [`templates/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/docs
 ) – document templates (screenshots)
-- [`visuals/`](https://github.com/gnrtd/medical_assistance_public/tree/main/visuals
+- [`visuals/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals
 ) – infographics
-- [`docs/`](https://github.com/gnrtd/medical_assistance_public/tree/main/docs) - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/docs/Documentation.jpg)
+- [`docs/`](https://github.com/gnrtd/medical_assistance_public/tblob/main/1_doc-automation/docs) - [project documentation](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/docs/Documentation.jpg)
  
 ---
 
 ### **Components of the project**
 
-- `1_create-daily-report-base (5 variations)` 
-- `2_run-it-by-6-schedules`
+- `1_create-daily-report-base (5 variations)` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/templates 
+- `2_run-it-by-6-schedules` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/
 - `3_create-email-drafts-by-6-schedules` [pic](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/AppScript_GmailDraftReport.png)
 
 ---
