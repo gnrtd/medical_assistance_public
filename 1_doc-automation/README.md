@@ -34,28 +34,28 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### ⚙️ Features
 
-###  [`1_create-daily-report-base`](https://github.com/gnrtd/medical_assistance_public/blob/main/templates/doc_template_sample.png)
-- Automates daily generation of a report folder with corresponding name and date, using [6 different schedules](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Schedule_Monthly_Sample.jpg) a month.
+###  [`1_create-daily-report-base`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/templates/doc_template_sample.png)
+- Automates daily generation of a report folder with corresponding name and date, using [6 different schedules](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals/Schedule_Monthly_Sample.jpg) a month.
 - Automates daily generation `.docx` pre-report templates for 5 different locations with dynamic:
   - Date of test
   - Office address
   - Assigned doctor
   - Optional add-ons (per office rules)
 
-###  [`2_run-it-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/PowerShell%2BTaskScheduler.png)
+###  [`2_run-it-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/PowerShell+TaskScheduler.png)
 - Automates execution of the first step via Task Scheduler using predefined schedule-based triggers.
 
-###  [`3_create-email-drafts-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.png)
+###  [`3_create-email-drafts-by-6-schedules`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/AppScript_GmailDraftReport.png)
 - Automates daily generation of e-mail drafts (regarding 6 schedules and 5 locations) for proceeding reports to the next step operational process.
 
-- Supports [custom](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Schedule_Monthly_Sample.jpg) office visit patterns:
+- Supports [custom](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals/Schedule_Monthly_Sample.jpg) office visit patterns:
   - weekly on a specific weekday
   - 1st & 3rd weekdays
   - 2nd & 4th weekdays
   - Biweekly office schedules
 
-- [JSON AppScript](file https://github.com/gnrtd/medical_assistance_public/blob/main/scripts/AppScript_GmailDraftReport.json)
-- [Output folder icon](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Output_folder.png)
+- [JSON AppScript](file https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/AppScript_GmailDraftReport.json)
+- [Output folder icon](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals/Output_folder.png)
 
 ---
 
