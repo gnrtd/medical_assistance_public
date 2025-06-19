@@ -16,7 +16,7 @@ Automate the manual process of preparing daily report templates and associated c
 ### 📁 Repository Structure
 
 - [`scripts/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts) – generation scripts 
-- [`templates/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/docs
+- [`templates/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/templates
 ) – document templates (screenshots)
 - [`visuals/`](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals
 ) – infographics
@@ -34,7 +34,7 @@ Automate the manual process of preparing daily report templates and associated c
 
 ### ⚙️ Features
 
-###  [`1_create-daily-report-base`](https://github.com/gnrtd/medical_assistance_public/blob/main/templates/created_WordReport_template.png)
+###  [`1_create-daily-report-base`](https://github.com/gnrtd/medical_assistance_public/blob/main/templates/doc_template_sample.png)
 - Automates daily generation of a report folder with corresponding name and date, using [6 different schedules](https://github.com/gnrtd/medical_assistance_public/blob/main/visuals/Schedule_Monthly_Sample.jpg) a month.
 - Automates daily generation `.docx` pre-report templates for 5 different locations with dynamic:
   - Date of test
