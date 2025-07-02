@@ -54,7 +54,6 @@ Automate the manual process of preparing daily report templates and associated c
   - 2nd & 4th weekdays
   - Biweekly office schedules
 
-- [JSON AppScript](file https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/scripts/AppScript_GmailDraftReport.json)
 - [Output folder icon](https://github.com/gnrtd/medical_assistance_public/blob/main/1_doc-automation/visuals/Output_folder.png)
 
 ---
