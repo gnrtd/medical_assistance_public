@@ -2,6 +2,8 @@
 
 This repository simulates a 3-stage automation and analytics system for medical data workflow — from Word document generation to structured data analysis in Tableau.
 
+#### 🚀 Original version was launched on March 2025
+
 <details>
 <summary>📁 Expand to view full project documentation</summary>
 
@@ -16,9 +18,6 @@ This repository simulates a 3-stage automation and analytics system for medical 
 | 📊 `3_analytics-insights/` | Tableau dashboards for workload analytics, doctor schedules, test distributions |
 | 🖼️ `visuals/` | Contains diagrams for the project structure. Every stage forlder contains its own process visuals |
 | 📜 `README.md` | This file — documentation and usage instructions |
-
-#### 🛠️ Creation of Public version is in progress
-#### 🚀 Original version was launched on March 2025, tested and works properly
 
 ---
 
